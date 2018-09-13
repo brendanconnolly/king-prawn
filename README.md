@@ -1,2 +1,3 @@
-# ventriloquist
-extending googlechrome/puppeteer to enable real time feedback and exploratory testing
+# king-prawn
+
+extends googlechrome/puppeteer to for real time feedback and exploratory testing
